@@ -1,0 +1,15 @@
+{
+  "name": "new template 2",
+  "description": "test",
+  "entries": [
+    {
+      "id": "89690cb5-17f3-400e-94fa-b9d67013b178",
+      "indent": 0,
+      "key": "test",
+      "value": "ing",
+      "ui": "string",
+      "index": 0,
+      "order": 0
+    }
+  ]
+}
