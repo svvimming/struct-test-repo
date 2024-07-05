@@ -1,0 +1,24 @@
+{
+  "name": "testing123",
+  "description": "test",
+  "entries": [
+    {
+      "id": "ccb64f6b-741d-4a5b-a3ba-2cde1aba56c1",
+      "indent": 0,
+      "key": "hi",
+      "value": "there",
+      "ui": "string",
+      "index": 0,
+      "order": 0
+    },
+    {
+      "id": "e2b1950d-13cd-4cb4-90e2-fe1c84b61ab4",
+      "indent": 0,
+      "key": "oops",
+      "value": 777,
+      "ui": "number",
+      "index": 1,
+      "order": 1
+    }
+  ]
+}
