@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "description": "test",
+  "entries": [
+    {
+      "id": "c1606ea2-832c-4189-b0c0-88bb4b2e327b",
+      "indent": 0,
+      "key": "hi",
+      "value": "there",
+      "ui": "string",
+      "index": 0,
+      "order": 0
+    }
+  ]
+}
