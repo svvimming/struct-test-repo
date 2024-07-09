@@ -10,6 +10,15 @@
       "ui": "datetime",
       "index": 0,
       "order": 0
+    },
+    {
+      "id": "3c6952e3-dd39-4d9d-8c40-1555d9346012",
+      "indent": 0,
+      "key": "never",
+      "value": "",
+      "ui": "string",
+      "index": 1,
+      "order": 1
     }
   ]
 }
