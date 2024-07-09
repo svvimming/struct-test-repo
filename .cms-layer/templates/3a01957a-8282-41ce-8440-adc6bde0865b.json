@@ -1,0 +1,15 @@
+{
+  "name": "555",
+  "description": "777",
+  "entries": [
+    {
+      "id": "135c359b-c721-4e38-9778-8ac8be48d582",
+      "indent": 0,
+      "key": "date",
+      "value": "",
+      "ui": "datetime",
+      "index": 0,
+      "order": 0
+    }
+  ]
+}
