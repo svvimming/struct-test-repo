@@ -37,6 +37,15 @@
       "ui": "number",
       "index": 3,
       "order": 3
+    },
+    {
+      "id": "85295cf4-d1f9-4b40-aefc-06eba85a6dd2",
+      "indent": 0,
+      "key": "next",
+      "value": "",
+      "ui": "string",
+      "index": 4,
+      "order": 4
     }
   ]
 }
