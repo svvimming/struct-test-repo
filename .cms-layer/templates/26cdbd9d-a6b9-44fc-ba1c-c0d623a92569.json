@@ -55,6 +55,15 @@
       "ui": "string",
       "index": 5,
       "order": 5
+    },
+    {
+      "id": "83dc0c48-fe89-4bd4-8918-da901a0ee751",
+      "indent": 0,
+      "key": "way",
+      "value": "",
+      "ui": "string",
+      "index": 6,
+      "order": 6
     }
   ]
 }
