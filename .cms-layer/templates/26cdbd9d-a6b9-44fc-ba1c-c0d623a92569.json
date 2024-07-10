@@ -28,6 +28,15 @@
       "ui": "boolean",
       "index": 2,
       "order": 2
+    },
+    {
+      "id": "4fece84d-aac2-4f4a-b53c-a30e14d6c632",
+      "indent": 0,
+      "key": "twentythousand",
+      "value": 20000,
+      "ui": "number",
+      "index": 3,
+      "order": 3
     }
   ]
 }
