@@ -64,6 +64,15 @@
       "ui": "string",
       "index": 6,
       "order": 6
+    },
+    {
+      "id": "736ad189-df6f-4adb-a739-b0da750ee501",
+      "indent": 0,
+      "key": "more",
+      "value": "",
+      "ui": "string",
+      "index": 7,
+      "order": 7
     }
   ]
 }
