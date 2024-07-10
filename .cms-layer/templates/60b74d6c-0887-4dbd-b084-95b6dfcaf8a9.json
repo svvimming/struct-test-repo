@@ -1,0 +1,15 @@
+{
+  "name": "new template",
+  "description": "a new template",
+  "entries": [
+    {
+      "id": "104c1077-8711-4beb-90ff-c4cb83258bff",
+      "indent": 0,
+      "key": "hi",
+      "value": "there",
+      "ui": "string",
+      "index": 0,
+      "order": 0
+    }
+  ]
+}
