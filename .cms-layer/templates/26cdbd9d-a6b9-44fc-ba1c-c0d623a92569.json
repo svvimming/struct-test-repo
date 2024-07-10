@@ -1,6 +1,6 @@
 {
   "name": "beepboop",
-  "description": "asidi23nroq2or39482039r23mr23",
+  "description": "asidi23nroq2or39",
   "entries": [
     {
       "id": "3cc72f0c-8734-4e1b-bfe4-e6eaa441fd2d",
@@ -19,6 +19,15 @@
       "ui": "image",
       "index": 1,
       "order": 1
+    },
+    {
+      "id": "761c199b-bd37-477b-8fcb-2e297306c53e",
+      "indent": 0,
+      "key": "oiiii",
+      "value": false,
+      "ui": "boolean",
+      "index": 2,
+      "order": 2
     }
   ]
 }
