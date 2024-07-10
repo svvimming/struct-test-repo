@@ -73,6 +73,15 @@
       "ui": "string",
       "index": 7,
       "order": 7
+    },
+    {
+      "id": "216f09b0-4399-413d-8e1b-8ba99c77f628",
+      "indent": 0,
+      "key": "i",
+      "value": false,
+      "ui": "boolean",
+      "index": 8,
+      "order": 8
     }
   ]
 }
