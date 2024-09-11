@@ -1,5 +1,8 @@
 {
   "hi": "there",
   "oops": "ie",
-  "test": "hsdjkfhskdjf"
+  "test": "hsdjkfhskdjf",
+  "hidden": {
+    "bye": "u can't see me"
+  }
 }
