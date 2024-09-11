@@ -3,6 +3,7 @@
   "oops": "ie",
   "test": "hsdjkfhskdjf",
   "hidden": {
-    "bye": "u can't see me"
+    "bye": "u can't see me",
+    "test": "some markdown\n"
   }
 }
