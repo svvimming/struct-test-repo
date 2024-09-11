@@ -1,1 +1,1 @@
-{"hi":"string","oops":"string","test":"string"}
+{"hi":{"ui":"string"},"oops":{"ui":"string"},"test":{"ui":"string"},"hidden":{"ui":"object"},"hiddenbye":{"ui":"string"}}
