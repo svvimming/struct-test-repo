@@ -1,1 +1,1 @@
-{"hi":{"ui":"string"},"oops":{"ui":"string"},"test":{"ui":"string"},"hidden":{"ui":"object","hiddenField":true},"hiddenbye":{"ui":"string","hiddenField":true},"hiddentest":{"ui":"markdown","hiddenField":true}}
+{"hi":{"ui":"string"},"oops":{"ui":"string"},"property_1":{"ui":"image"},"test":{"ui":"string"},"hidden":{"ui":"object","hiddenField":true},"hiddenbye":{"ui":"string","hiddenField":true},"hiddentest":{"ui":"markdown","hiddenField":true},"hiddenmore":{"ui":"string","hiddenField":true},"properties":{"ui":"object","label":"test_object"}}
