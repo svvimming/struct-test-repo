@@ -1,9 +1,12 @@
 {
   "hi": "there",
   "oops": "ie",
+  "property_1": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/lego-sauron-360x200.jpeg",
   "test": "hsdjkfhskdjf",
   "hidden": {
     "bye": "u can't see me",
-    "test": "some markdown\n"
-  }
+    "test": "some markdown\n",
+    "more": "more text"
+  },
+  "properties": {}
 }
